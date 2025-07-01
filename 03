@@ -1,80 +1,76 @@
 #EXTM3U
-#EXTIMG:https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg
-#PLAYLIST:Modern Family - Temporada 3
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x01 - El rancho
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x01 - El rancho
 https://archive.org/download/03-22_202507/03%20(1).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x02 - Cuando los niños buenos se portan mal
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x02 - Cuando los niños buenos se portan mal
 https://archive.org/download/03-22_202507/03%20(2).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x03 - Phil al límite
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x03 - Phil al límite
 https://archive.org/download/03-22_202507/03%20(3).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x04 - De puerta en puerta
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x04 - De puerta en puerta
 https://archive.org/download/03-22_202507/03%20(4).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x05 - Fuga y atropello
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x05 - Fuga y atropello
 https://archive.org/download/03-22_202507/03%20(5).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x06 - ¡Go Bullfrogs!
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x06 - ¡Go Bullfrogs!
 https://archive.org/download/03-22_202507/03%20(6).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x07 - Cita a ciegas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x07 - Cita a ciegas
 https://archive.org/download/03-22_202507/03%20(7).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x08 - Después de la tormenta
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x08 - Después de la tormenta
 https://archive.org/download/03-22_202507/03%20(8).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x09 - El día de acción de gracias
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x09 - El día de acción de gracias
 https://archive.org/download/03-22_202507/03%20(9).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x10 - Express infantil
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x10 - Express infantil
 https://archive.org/download/03-22_202507/03%20(10).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x11 - La rival
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x11 - La rival
 https://archive.org/download/03-22_202507/03%20(11).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x12 - El regalo de cumpleaños
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x12 - El regalo de cumpleaños
 https://archive.org/download/03-22_202507/03%20(12).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x13 - Pequeñas coincidencias
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x13 - Pequeñas coincidencias
 https://archive.org/download/03-22_202507/03%20(13).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x14 - Mi héroe
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x14 - Mi héroe
 https://archive.org/download/03-22_202507/03%20(14).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x15 - Un príncipe en apuros
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x15 - Un príncipe en apuros
 https://archive.org/download/03-22_202507/03%20(15).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x16 - Sentimientos encontrados
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x16 - Sentimientos encontrados
 https://archive.org/download/03-22_202507/03%20(16).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x17 - El líder de la manada
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x17 - El líder de la manada
 https://archive.org/download/03-22_202507/03%20(17).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x18 - Viaje a Las Vegas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x18 - Viaje a Las Vegas
 https://archive.org/download/03-22_202507/03%20(18).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x19 - El año nuevo de los Dunphy
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x19 - El año nuevo de los Dunphy
 https://archive.org/download/03-22_202507/03%20(19).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x20 - El álbum familiar
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x20 - El álbum familiar
 https://archive.org/download/03-22_202507/03%20(20).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x21 - La luna de miel
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x21 - La luna de miel
 https://archive.org/download/03-22_202507/03%20(21).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x22 - La graduación
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x22 - La graduación
 https://archive.org/download/03-22_202507/03%20(22).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x23 - La boda (Parte 1)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x23 - La boda (Parte 1)
 https://archive.org/download/03-22_202507/03%20(23).mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sitcoms",3x24 - La boda (Parte 2)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukwUm7OHKBV9DPEa3lTKSY92Euj.jpg",3x24 - La boda (Parte 2)
 https://archive.org/download/03-22_202507/03%20(24).mp4
-
-
 
 
 
